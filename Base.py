@@ -11,3 +11,4 @@ twitter_api_key = os.getenv("TWITTER_API_KEY")
 print("Twitter API Key:", twitter_api_key)
 
 #will git pull work
+#writing this in github will this pull in vs code?
