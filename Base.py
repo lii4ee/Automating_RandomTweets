@@ -12,3 +12,5 @@ print("Twitter API Key:", twitter_api_key)
 
 #will git pull work
 #writing this in github will this pull in vs code?
+a = 10 + 20
+print(a)
